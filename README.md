@@ -17,3 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
