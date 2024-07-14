@@ -23,9 +23,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
