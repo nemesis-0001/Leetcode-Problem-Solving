@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -33,8 +34,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
