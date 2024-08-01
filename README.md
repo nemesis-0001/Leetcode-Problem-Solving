@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nemesis-0001/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Sorting
